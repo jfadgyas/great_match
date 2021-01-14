@@ -1,0 +1,29 @@
+body{
+    background-color: #312F47;
+    color: #B2B4DE;
+}
+.btn{
+    color: #8983C7;
+    border: 1px solid #7F77E0;
+    border-radius: 10px;
+    background-color: #1E1A47;
+    padding: 1em;
+}
+.pointer{
+    cursor: pointer;
+}
+.pointer:hover{
+    background-color: #8983C7;
+    color: #1E1A47;
+}
+p{
+    text-transform: capitalize;
+    margin: 0.2em;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+li{
+    display: flex;
+}
